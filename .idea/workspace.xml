@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f85f66b5-55bc-4f73-8e6f-6d78e688a454" name="Changes" comment="- Édition du script qui ajoute une action au clic sur le bouton qui affiche un message (type &quot;ERREUR&quot;) au niveau de la console.">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activites8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mart-tremblay.github.com/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mart-tremblay.github.com/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mart-tremblay.github.com/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mart-tremblay.github.com/scripts/bouton-debogage.js" beforeDir="false" afterPath="$PROJECT_DIR$/mart-tremblay.github.com/scripts/bouton-debogage.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/mart-tremblay.github.com" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/mart-tremblay.github.com/index.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="281aIESaPtp98mYk9Rrqa0xHtWf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
+  </component>
+  <component name="RunManager" selected="Node.js.bouton-debogage.js">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/activites8/mart-tremblay.github.com/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="bouton-debogage.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/mart-tremblay.github.com/scripts/bouton-debogage.js" working-dir="$PROJECT_DIR$/mart-tremblay.github.com/scripts">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.bouton-debogage.js" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f85f66b5-55bc-4f73-8e6f-6d78e688a454" name="Changes" comment="" />
+      <created>1650386463950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650386463950</updated>
+      <workItem from="1650386465200" duration="865000" />
+      <workItem from="1650388934498" duration="3481000" />
+      <workItem from="1650406050186" duration="4202000" />
+      <workItem from="1650410315321" duration="1982000" />
+    </task>
+    <task id="LOCAL-00001" summary="Création fichier index.html avec bouton">
+      <created>1650406851424</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650406851424</updated>
+    </task>
+    <task id="LOCAL-00002" summary="- Création dossier &quot;scripts&quot; et du fichier script bouton-debogage.js.&#10;- Édition du script pour écouter et lancer suite au clic sur le bouton d'un message (type message) au niveau de la console.&#10;- Modification de index.html pour incorporer bouton-debogage.js.">
+      <created>1650408144282</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650408144282</updated>
+    </task>
+    <task id="LOCAL-00003" summary="- Édition du script qui ajoute une action au clic sur le bouton qui affiche un message (type &quot;warting&quot;) au niveau de la console.">
+      <created>1650408302808</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650408302808</updated>
+    </task>
+    <task id="LOCAL-00004" summary="- Édition du script qui ajoute une action au clic sur le bouton qui affiche un message (type &quot;ERREUR&quot;) au niveau de la console.">
+      <created>1650408374708</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1650408374708</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Création fichier index.html avec bouton" />
+    <MESSAGE value="- Création dossier &quot;scripts&quot; et du fichier script bouton-debogage.js.&#10;- Édition du script pour écouter et lancer suite au clic sur le bouton d'un message (type message) au niveau de la console.&#10;- Modification de index.html pour incorporer bouton-debogage.js." />
+    <MESSAGE value="- Édition du script qui ajoute une action au clic sur le bouton qui affiche un message (type &quot;warting&quot;) au niveau de la console." />
+    <MESSAGE value="- Édition du script qui ajoute une action au clic sur le bouton qui affiche un message (type &quot;ERREUR&quot;) au niveau de la console." />
+    <option name="LAST_COMMIT_MESSAGE" value="- Édition du script qui ajoute une action au clic sur le bouton qui affiche un message (type &quot;ERREUR&quot;) au niveau de la console." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/mart-tremblay.github.com/scripts/bouton-debogage.js</url>
+          <line>3</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
