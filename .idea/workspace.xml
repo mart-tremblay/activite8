@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f85f66b5-55bc-4f73-8e6f-6d78e688a454" name="Changes" comment="- Édition du script qui ajoute une action au clic sur le bouton qui affiche un message (type &quot;ERREUR&quot;) au niveau de la console.">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/activites8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mart-tremblay.github.com/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mart-tremblay.github.com/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mart-tremblay.github.com/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mart-tremblay.github.com/scripts/bouton-debogage.js" beforeDir="false" afterPath="$PROJECT_DIR$/mart-tremblay.github.com/scripts/bouton-debogage.js" afterDir="false" />
+    <list default="true" id="f85f66b5-55bc-4f73-8e6f-6d78e688a454" name="Changes" comment="Ajout optionnel : 2 fichiers jpg et modification du fichier index.html pour insérer les 2 images jpg.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +73,7 @@
       <workItem from="1650386465200" duration="865000" />
       <workItem from="1650388934498" duration="3481000" />
       <workItem from="1650406050186" duration="4202000" />
-      <workItem from="1650410315321" duration="1982000" />
+      <workItem from="1650410315321" duration="3035000" />
     </task>
     <task id="LOCAL-00001" summary="Création fichier index.html avec bouton">
       <created>1650406851424</created>
@@ -112,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650408374708</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Ajout optionnel : 2 fichiers jpg et modification du fichier index.html pour insérer les 2 images jpg.">
+      <created>1650412604714</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1650412604714</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,7 +132,8 @@
     <MESSAGE value="- Création dossier &quot;scripts&quot; et du fichier script bouton-debogage.js.&#10;- Édition du script pour écouter et lancer suite au clic sur le bouton d'un message (type message) au niveau de la console.&#10;- Modification de index.html pour incorporer bouton-debogage.js." />
     <MESSAGE value="- Édition du script qui ajoute une action au clic sur le bouton qui affiche un message (type &quot;warting&quot;) au niveau de la console." />
     <MESSAGE value="- Édition du script qui ajoute une action au clic sur le bouton qui affiche un message (type &quot;ERREUR&quot;) au niveau de la console." />
-    <option name="LAST_COMMIT_MESSAGE" value="- Édition du script qui ajoute une action au clic sur le bouton qui affiche un message (type &quot;ERREUR&quot;) au niveau de la console." />
+    <MESSAGE value="Ajout optionnel : 2 fichiers jpg et modification du fichier index.html pour insérer les 2 images jpg." />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajout optionnel : 2 fichiers jpg et modification du fichier index.html pour insérer les 2 images jpg." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
